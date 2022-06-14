@@ -4,5 +4,14 @@
   "artist": "Tang Chi Fai",
   "author": "Cheng Kin Wo",
   "cover": "https://mangadex.org/covers/1a4c6dbe-47f0-441c-b762-06c1166bc223/9730ff2f-4bbb-4d1b-87ec-f88a689acb65.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Lupo e Drago",
+      "volume": "",
+      "last_updated": "1655221309",
+      "groups": {
+        "Seventranslations": "/proxy/api/imgur/chapter/dbiGYcO"
+      }
+    }
+  }
 }
