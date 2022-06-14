@@ -4,5 +4,14 @@
   "artist": "Tang Chi Fai",
   "author": "Cheng Kin Wo",
   "cover": "https://imgur.com/a/SfTjx3y",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Drago e Lupo",
+      "volume": "",
+      "last_updated": "1655219966",
+      "groups": {
+        "SevenTranslations": "/proxy/api/imgur/chapter/dbiGYcO"
+      }
+    }
+  }
 }
