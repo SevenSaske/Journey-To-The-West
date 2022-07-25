@@ -12,6 +12,16 @@
       "groups": {
         "SevenTranslations": "/proxy/api/imgur/chapter/dbiGYcO"
       }
+    },
+    "2": {
+      "title": "Re Drago, generale Deva",
+      "volume": "",
+      "last_updated": "1658754865",
+      "groups": {
+        "SevenTranslations": [
+          "https://imgur.com/a/HC2FZXK"
+        ]
+      }
     }
   }
 }
